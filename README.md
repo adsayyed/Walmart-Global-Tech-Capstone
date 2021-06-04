@@ -16,4 +16,4 @@ Teammates:
 [Amber Chen](https://www.linkedin.com/in/ambercxx/), 
 [Shuming Chen](https://www.linkedin.com/in/shuming-chen/), 
 [Tairan Deng](https://www.linkedin.com/in/tairan-deng-857396149/), 
-[Kaiwen Zhang](https://www.linkedin.com/in/kaiwen-zhang-a802b5121/), 
+[Kaiwen Zhang](https://www.linkedin.com/in/kaiwen-zhang-a802b5121/) 
